@@ -1,0 +1,8 @@
+darm-tbl.*
+armv7-tbl.*
+thumb-tbl.*
+thumb2-tbl.*
+libdarm.*
+*.pyc
+*.o
+*.exe
