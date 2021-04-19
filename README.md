@@ -1,5 +1,4 @@
-# AndroidPerf
-AndroidPerf: Cross-layer Profiling the Performace of Andorid System and Applications
+# Cross-layer Profiling Andorid System and Applications (AndroidPerf)
 
 AndoridPerf is implemented based on Qemu and tested using Android 4.3 system. If you are interested in it, you can find more technique details from the following paper.
 
